@@ -1,0 +1,6 @@
+computeSourcePath=true
+contextsDir=C\:/app/81805/pleiades/tomcat/8/conf/Catalina/localhost
+eclipse.preferences.version=1
+tomcatConfigFile=C\:/app/81805/pleiades/tomcat/8/conf/server.xml
+tomcatDir=C\:/app/81805/pleiades/tomcat/8
+tomcatVersion=tomcatV8
